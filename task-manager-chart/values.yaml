@@ -1,0 +1,7 @@
+backend:
+  image: "ghcr.io/pilotikys/task-backend:latest"
+  replicas: 1
+
+frontend:
+  image: "ghcr.io/pilotikys/task-frontend:latest"
+  replicas: 1
