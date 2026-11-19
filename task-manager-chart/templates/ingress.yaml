@@ -4,7 +4,7 @@ metadata:
   name: task-manager-ingress
 spec:
   rules:
-    - host: task-manager.46.21.245.31.nip.io
+    - host: task-manager.51.250.74.46.nip.io
       http:
         paths:
           - path: /
